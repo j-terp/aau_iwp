@@ -1,3 +1,5 @@
+[< back](README.md)
+
 # Lecture Material 5
 
 (Denne lektion kommer til at bygge videre på [IMPRs lektion 12](https://laml.cs.aau.dk/cgi-bin/video2/get/show-video.cgi?video-id=video-linked-lists&course-id=impr&lecture-number=12&course-year=2021&video-width=640&lang=dk&video-start-time=00:00&auto-play=0), så det er en god ide at tage den lektion, hvis du af en eller anden grund missede den i efteråret, eller repetere den, hvis indholdet fremstår lidt tåget. 

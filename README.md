@@ -34,3 +34,19 @@ Tidsforbrug Vi forventer at tidsforbruget vil være nogenlunde jævn gennem seme
   <th>5 ECTS</th><th>5 × 27.5</th><th>137.5</th>
 </tr>
 </table>
+
+## Table of Contents
+
+1. [Lecture 1](./lectures/1/README.md)
+2. [Lecture 2](./lectures/2/README.md)
+3. [Lecture 3](./lectures/3/README.md)
+4. [Lecture 4](./lectures/4/README.md)
+5. [Lecture 5](./lectures/5/README.md)
+6. [Lecture 6](./lectures/6/README.md)
+7. [Lecture 7](./lectures/7/README.md)
+8. [Lecture 8](./lectures/8/README.md)
+9. [Lecture 9](./lectures/9/README.md)
+10. [Lecture 10](./lectures/10/README.md)
+11. [Lecture 11](./lectures/11/README.md)
+12. [Lecture 12](./lectures/12/README.md)
+13. [Lecture 13](./lectures/13/README.md)

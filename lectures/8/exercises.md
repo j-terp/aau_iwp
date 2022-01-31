@@ -1,3 +1,5 @@
+[< back](README.md)
+
 # Exercises 8
 
 1. Server-Sent Events can be enough for a simple quiz application. You can base your code on the SSE chat code and on the BMI calculator from Lecture7. Hints:

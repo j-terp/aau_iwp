@@ -1,3 +1,5 @@
+[< back](README.md)
+
 # Solutions 2
 
 ## Fun with Functions

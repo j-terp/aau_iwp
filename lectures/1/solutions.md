@@ -1,3 +1,5 @@
+[< back](README.md)
+
 # Solutions 1
 
 ## Triangle

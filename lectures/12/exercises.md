@@ -1,3 +1,5 @@
+[< back](README.md)
+
 # Exercises 12
 
 \[KR\] Chapter 2: P31.

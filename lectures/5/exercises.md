@@ -1,3 +1,5 @@
+[< back](README.md)
+
 # Exercises
 
 1. Below you find the html for a (parts of a simple page for) entering the choice of beers. Add the javaScript to readout (print to console) the names  and statuses (whether they are checked or not) of the radio buttons. Your solution should work with a document containing further forms. It can be solved in several ways. 

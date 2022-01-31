@@ -1,3 +1,5 @@
+[< back](README.md)
+
 # Exercises 2
 
 ## Part 1. Fun with Functions

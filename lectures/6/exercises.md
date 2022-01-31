@@ -1,3 +1,5 @@
+[< back](README.md)
+
 # Exercises 6
 
 1. \[fetch\] Start with completing exercise 6c from lecture 5, which is an exercise on the use of `fetch()`.
