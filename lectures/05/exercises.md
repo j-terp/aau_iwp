@@ -26,10 +26,11 @@
 </html>
 ```
 
-2. Use the DOM API to insert a `h1` element with the text "Vælg en Øl-type" immediately before the form: Use `document.createElement` to create a new element and the appropriate (Section 15.3.5 in [DF]) append, prepend, before, after method(s).
+2. Use the DOM API to insert a `h1` element with the text "Vælg en Øl-type" immediately before the form: Use `document.createElement` to create a new element and the appropriate (Section 15.3.5 in \[DF\]) append, prepend, before, after method(s).
 
 3. a) Attach an event-handler function to the start button (using `addEventListener`). The function should print the status of the radio buttons to the console (you may want to wrap you solution to Q1 as a function `listChecked` for this purpose). 
-b) Now do the same for each radio button, such that each button reacts to a click by logging the statuses (re-using your above function). 
+
+    b) Now do the same for each radio button, such that each button reacts to a click by logging the statuses (re-using your above function). 
 
 4.  Make a spy functionality: Whenever the user hovers the mouse over an element on the page, this should be caught by an event-handler function that extracts information about the target HTML element (its `nodeName` and `innerHTML`; both available via the `target` property of the event object transferred to the event handler function (e.g `event.target.nodeName`) and logs it to the console. You can use the beer page, a page of your own, or the HTML from [http://people.cs.aau.dk/~bnielsen/IWP/links.html](http://people.cs.aau.dk/~bnielsen/IWP/links.html). It can be extended with a key-logger feature (listen for `keydown` events). (Not to be done in this exercise, but all you have to do then to make an effective spy script is to HTTP POST the logged entry using the fetch-api to a web-server (node.js application) under your control, and you are effectively remotely observing what the user is interested in (at least as indicated by the mouse position).
 
@@ -49,9 +50,13 @@ Load your html containing that element into your browser. Discuss the possible s
   };
 ```
 
-b) Next, only the menu that corresponds to the selected beer type should be shown (ie there is one drop at a time). Hint: `replaceWith` and event-handlers on the radio buttons! The same handler function can be registered on all three buttons, and the exact target can be detected e.g using `event.target.value`
+  b) Next, only the menu that corresponds to the selected beer type should be shown (ie there is one drop at a time). Hint: `replaceWith` and event-handlers on the radio buttons! The same handler function can be registered on all three buttons, and the exact target can be detected e.g using `event.target.value`
 
-c) As a final step, the beerTypes object should be "fetch"'ed from a server (i.e. contents not declared as an array at client). You can use the Yatzy-site server from last for this purpose: Deposit your `exercise.html` file (containing the script that does fetch on in the directory for HTML files. Also add a file `beer.json` that contains
+  ![beer_1](../../assets/5_6_2_1.png)
+  ![beer_2](../../assets/5_6_2_2.png)
+  ![beer_3](../../assets/5_6_2_3.png)
+
+  c) As a final step, the beerTypes object should be "fetch"'ed from a server (i.e. contents not declared as an array at client). You can use the Yatzy-site server from last for this purpose: Deposit your `exercise.html` file (containing the script that does fetch on in the directory for HTML files. Also add a file `beer.json` that contains
 
 ```json
 {"ales":["Bitter","Pale Ale","Brown Ale","Trappist","Porter","Weizenbier"],"lagers":["Pilsner","Münchener","Wiener","Bock","Porter"],"wilds":["Gueuze","Faro","Fruit"]}
@@ -67,8 +72,14 @@ First, check that you receive the object by printing it to the console in the `.
 
 It could appear something like:
 
+![beer gui](../../assets/5_7_1.png)
+![assess beer](../../assets/5_7_2.png)
+![search beer](../../assets/5_7_3.png)
+
 8. Animation (OPTIONAL)
 
 Try out this simple animation demo [https://eloquentjavascript.net/14_dom.html#c_SCZYa8azNm](https://eloquentjavascript.net/14_dom.html#c_SCZYa8azNm) (remark you can run the example directly on the page using the "burger" menu, see picture
 
 Then to the "Cats hat": [https://eloquentjavascript.net/14_dom.html#p_3jJ377egS/](https://eloquentjavascript.net/14_dom.html#p_3jJ377egS/)
+
+![moving cat](../../assets/5_8.png)

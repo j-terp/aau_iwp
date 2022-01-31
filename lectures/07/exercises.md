@@ -7,9 +7,9 @@
 
 2. (fetch, POST, routing) Make a spy site that receives information on what you are interested into. The spy site (web server you develop) provides the web page.
 
-    a. (client side) The web page has some buttons and images. Any time your mouse hovers over an element on the page, this is caught by a `onmouseover` event-handler, and the web page performs a `POST` (using the `fetch()` method) to an endpoint in the server.
+    a) (client side) The web page has some buttons and images. Any time your mouse hovers over an element on the page, this is caught by a `onmouseover` event-handler, and the web page performs a `POST` (using the `fetch()` method) to an endpoint in the server.
 
-    b. (server side) The HTTP server has endpoints to serve HTML web pages, and one endpoint to receive the POST requests from the "onmouseover" event handler. The HTTP server will route the request to a function that receives the POST data and performs a console.log of the received data.
+    b) (server side) The HTTP server has endpoints to serve HTML web pages, and one endpoint to receive the POST requests from the "onmouseover" event handler. The HTTP server will route the request to a function that receives the POST data and performs a console.log of the received data.
 
 
 3. (file handling) Change the HTTP server from point 2 to append the data received by `onmouseover` event handler to a local file. Consider which data must be received to uniquely identify which computer the data was received from (address of the client? port?). After using the system for a couple of minutes, open the local file and see the data that was logged.
