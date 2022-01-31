@@ -15,24 +15,12 @@ Eksamen er en 4-timers skriftlig prøve, og vil bestå af en teori-del (ca. 70%)
 Tidsforbrug Vi forventer at tidsforbruget vil være nogenlunde jævn gennem semesteret med normalt 1 lektion om ugen. Fordelingen af aktivitet ser sådan ud:
 
 <table>
-<tr>
-  <td>12 lektioner</td><td>12 × 2</td><td>24</td>
-</tr>
-<tr>
-  <td>13 øvelsesgange</td><td>12 × 2 + 3</td><td>27</td>
-</tr>
-<tr>
-  <td>3.5 timers forberedelse</td><td>12 × 3.5</td><td>42</td>
-</tr>
-<tr>
-  <td>Resterende øvelser</td><td></td><td>17.5</td>
-</tr>
-<tr>
-  <td>Eksamens repetition</td><td></td><td>27</td>
-</tr>
-<tr>
-  <th>5 ECTS</th><th>5 × 27.5</th><th>137.5</th>
-</tr>
+<tr><td>12 lektioner</td>           <td>12 × 2</td>    <td>24</td>   </tr>
+<tr><td>13 øvelsesgange</td>        <td>12 × 2 + 3</td><td>27</td>   </tr>
+<tr><td>3.5 timers forberedelse</td><td>12 × 3.5</td>  <td>42</td>   </tr>
+<tr><td>Resterende øvelser</td>     <td></td>          <td>17.5</td> </tr>
+<tr><td>Eksamens repetition</td>    <td></td>          <td>27</td>   </tr>
+<tr><th>5 ECTS</th>                 <th>5 × 27.5</th>  <th>137.5</th></tr>
 </table>
 
 ## Table of Contents
@@ -43,15 +31,15 @@ Tidsforbrug Vi forventer at tidsforbruget vil være nogenlunde jævn gennem seme
 <a href="./lectures/1/README.md">Lecture 1</a>
 
 
-<tr><td><a href="./lectures/1/README.md">Lecture 1</a></td><td><a href="./exercises/1/README.md">Exercises 1</a></td></tr>
-<tr><td><a href="./lectures/2/README.md">Lecture 2</a></td><td><a href="./exercises/2/README.md">Exercises 2</a></td></tr>
-<tr><td><a href="./lectures/3/README.md">Lecture 3</a></td><td><a href="./exercises/3/README.md">Exercises 3</a></td></tr>
-<tr><td><a href="./lectures/4/README.md">Lecture 4</a></td><td><a href="./exercises/4/README.md">Exercises 4</a></td></tr>
-<tr><td><a href="./lectures/5/README.md">Lecture 5</a></td><td><a href="./exercises/5/README.md">Exercises 5</a></td></tr>
-<tr><td><a href="./lectures/6/README.md">Lecture 6</a></td><td><a href="./exercises/6/README.md">Exercises 6</a></td></tr>
-<tr><td><a href="./lectures/7/README.md">Lecture 7</a></td><td><a href="./exercises/7/README.md">Exercises 7</a></td></tr>
-<tr><td><a href="./lectures/8/README.md">Lecture 8</a></td><td><a href="./exercises/8/README.md">Exercises 8</a></td></tr>
-<tr><td><a href="./lectures/9/README.md">Lecture 9</a></td><td><a href="./exercises/9/README.md">Exercises 9</a></td></tr>
+<tr><td> <a href="./lectures/1/README.md">Lecture 1</a> </td><td> <a href="./exercises/1/README.md">Exercises 1</a> </td></tr>
+<tr><td> <a href="./lectures/2/README.md">Lecture 2</a> </td><td> <a href="./exercises/2/README.md">Exercises 2</a> </td></tr>
+<tr><td> <a href="./lectures/3/README.md">Lecture 3</a> </td><td> <a href="./exercises/3/README.md">Exercises 3</a> </td></tr>
+<tr><td> <a href="./lectures/4/README.md">Lecture 4</a> </td><td> <a href="./exercises/4/README.md">Exercises 4</a> </td></tr>
+<tr><td> <a href="./lectures/5/README.md">Lecture 5</a> </td><td> <a href="./exercises/5/README.md">Exercises 5</a> </td></tr>
+<tr><td> <a href="./lectures/6/README.md">Lecture 6</a> </td><td> <a href="./exercises/6/README.md">Exercises 6</a> </td></tr>
+<tr><td> <a href="./lectures/7/README.md">Lecture 7</a> </td><td> <a href="./exercises/7/README.md">Exercises 7</a> </td></tr>
+<tr><td> <a href="./lectures/8/README.md">Lecture 8</a> </td><td> <a href="./exercises/8/README.md">Exercises 8</a> </td></tr>
+<tr><td> <a href="./lectures/9/README.md">Lecture 9</a> </td><td> <a href="./exercises/9/README.md">Exercises 9</a> </td></tr>
 <tr><td><a href="./lectures/10/README.md">Lecture 10</a></td><td><a href="./exercises/10/README.md">Exercises 10</a></td></tr>
 <tr><td><a href="./lectures/11/README.md">Lecture 11</a></td><td><a href="./exercises/11/README.md">Exercises 11</a></td></tr>
 <tr><td><a href="./lectures/12/README.md">Lecture 12</a></td><td><a href="./exercises/12/README.md">Exercises 12</a></td></tr>
