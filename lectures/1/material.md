@@ -9,26 +9,26 @@ These chapters introduce the basic programming concepts in JavaScript (JS): Type
 **\[DF\] Chapters 1-5** (11 + 6 + 29 + 13 + 15 = 74 pages): SKIP the sections mentioned below
 
 - Ch 1: 
-  - skip 1.4 for now
+    - skip 1.4 for now
 - Ch 3: skip
-  - 3.2.5, BigInt:
-  - 3.6, Symbols: 2
-  - 3.2.10 VAR: 1
-  - 3.10.3 Destructuring assignment: 4
+    - 3.2.5, BigInt:
+    - 3.6, Symbols: 2
+    - 3.2.10 VAR: 1
+    - 3.10.3 Destructuring assignment: 4
 - Ch 4: Expressions, SKIP
-  - 4.4.1 Conditional property access 2
-  - 4.5.1 Conditional invoke 1 
-  - 4.7 (operators and precedense. Serves as Reference manual) 4
-  - 4.9.2 comparison 2
-  - 4.9.3 in operator 4.9.4 instanceOf 1 4.10 logical expr 3
-  - 4.12 EVAL 4 
-  - 4.13 Other 5 statements
+    - 4.4.1 Conditional property access 2
+    - 4.5.1 Conditional invoke 1 
+    - 4.7 (operators and precedense. Serves as Reference manual) 4
+    - 4.9.2 comparison 2
+    - 4.9.3 in operator 4.9.4 instanceOf 1 4.10 logical expr 3
+    - 4.12 EVAL 4 
+    - 4.13 Other 5 statements
 - Ch 5, SKIP
-  - “For of” with MAP, “async for/await”, p 110
-  - 5.4.5 for /in 2
-  - 5.5, but do read 5.5.4 about "return", and note the existence of "break" and "continue"; 8
-  - 5.6, but read 5.6.3 “strict mode“. 2
-  - 5.7.3, 5.7.4: 1 5.8 :1
+    - “For of” with MAP, “async for/await”, p 110
+    - 5.4.5 for /in 2
+    - 5.5, but do read 5.5.4 about "return", and note the existence of "break" and "continue"; 8
+    - 5.6, but read 5.6.3 “strict mode“. 2
+    - 5.7.3, 5.7.4: 1 5.8 :1
 
 ## Supplementary material:
 
@@ -36,9 +36,9 @@ There are many books that focus on the **Javascript language**. Not all are equa
 
 - [Marijn Haverbeke: Eloquent JavaScript. 3rd edition (2018).](https://eloquentjavascript.net/index.html) A good free introduction to JS programming, but also become fairly convoluted.
 - Axel Rauschmayer has written a number of **useful (partly free or DRM-less) books on JavaScript**, see the page [Exploring JS: JavaScript books for programmers](https://exploringjs.com/), including:
-  - JavaScript for impatient programmers (ES1–ES2019), Introductory 
-  - Deep JavaScript: Theory and techniques (ES1–ES2019), Advanced
-  - Speaking JavaScript (ES1–ES5), Introductory, but not fully updated with newest language features.
+    - JavaScript for impatient programmers (ES1–ES2019), Introductory 
+    - Deep JavaScript: Theory and techniques (ES1–ES2019), Advanced
+    - Speaking JavaScript (ES1–ES5), Introductory, but not fully updated with newest language features.
 
 - \[MDN\] Also has [numerous guides for JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript.info](https://javascript.info/) is another usefull web-based guide for JavaScript and front-end development

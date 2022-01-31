@@ -8,7 +8,7 @@ This page introduces the Multi-Yatzy game. It describes the game background, its
 Multi-yatzy is an extension of the popular and well-known Yatzy dice game. It is normally played with 5 6-valued fair dice. However, in this extension the game can be configured with any number of dice between 5 and 20.
 An image of a 6-valued dice.
 
-  Figure 1: A typical dice used in Yatzy.
+Figure 1: A typical dice used in Yatzy.
 
 This version is played by a single simple computer player.
 
@@ -158,12 +158,12 @@ function printHTMLPage(scoreTable){
 </form>
 ```
 - HTTP:
-  1. The requested url is: [https://httpbin.org/post](https://httpbin.org/post) . I.e  protocol-scheme `HTTPS`, domain `httpbin.org`, and resource path `post`. The http-method is `POST`. The fact that the resource name `post` co-insides with the `HTTP` method is an artefact of the function of the server to act as a test site. Don't confuse the two. The resource could have (better) been named `post-test`. On the other hand the `HTTP` methods is fixed by the `HTTP` protocol specification. 
-  2. In a post request, the form parameters are transferred in the body. Its content type is : `application/x-www-form-urlencoded`. the actual content is the string: `name=Mickey&diceCount=6&difficultyLevel=1.0&gameOrder=topDownOrder`.
-  3. The response is a json (javascript serialized object notation) document: content-type "application/json"  (probably around 1352 bytes long as per the header field)
-  4. The request was successful as per the status code "200".
+    1. The requested url is: [https://httpbin.org/post](https://httpbin.org/post) . I.e  protocol-scheme `HTTPS`, domain `httpbin.org`, and resource path `post`. The http-method is `POST`. The fact that the resource name `post` co-insides with the `HTTP` method is an artefact of the function of the server to act as a test site. Don't confuse the two. The resource could have (better) been named `post-test`. On the other hand the `HTTP` methods is fixed by the `HTTP` protocol specification. 
+    2. In a post request, the form parameters are transferred in the body. Its content type is : `application/x-www-form-urlencoded`. the actual content is the string: `name=Mickey&diceCount=6&difficultyLevel=1.0&gameOrder=topDownOrder`.
+    3. The response is a json (javascript serialized object notation) document: content-type "application/json"  (probably around 1352 bytes long as per the header field)
+    4. The request was successful as per the status code "200".
 
-  5. USING GET the URL is: [https://httpbin.org/get?name=Mickey&diceCount=5&difficultyLevel=1.0&gameOrder=topDownOrder](https://httpbin.org/get?name=Mickey&diceCount=5&difficultyLevel=1.0&gameOrder=topDownOrder) I.e protocol-scheme `HTTPS`, domain `httpbin.org`, and resource path `get?name=Mickey&diceCount=5&difficultyLevel=1.0&gameOrder=topDownOrder`. The http-method is `GET`. IE the form data is transferred as part of the URL in the query string. 
-  6. The request has no content-type because the `GET` does not carry a body. 
-  7. The response is a `json` document. 
-  8. The reequest is successfull as per the status code "200"
+    5. USING GET the URL is: [https://httpbin.org/get?name=Mickey&diceCount=5&difficultyLevel=1.0&gameOrder=topDownOrder](https://httpbin.org/get?name=Mickey&diceCount=5&difficultyLevel=1.0&gameOrder=topDownOrder) I.e protocol-scheme `HTTPS`, domain `httpbin.org`, and resource path `get?name=Mickey&diceCount=5&difficultyLevel=1.0&gameOrder=topDownOrder`. The http-method is `GET`. IE the form data is transferred as part of the URL in the query string. 
+    6. The request has no content-type because the `GET` does not carry a body. 
+    7. The response is a `json` document. 
+    8. The reequest is successfull as per the status code "200"

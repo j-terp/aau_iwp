@@ -8,18 +8,18 @@ These chapters introduce the basics of objects, arrays, and functions JS. Object
 
 **\[DF\] Chapters 6,7,8** (14 + 11 + 16 pages = 41 pages): SKIP the sections mentioned below
 - Ch 6: (Objects), skip
-  - 6.4 deleting properties
-  - 6.5 testing props 1
-  - 6.10 Litt syntax, gett/setters 7
+    - 6.4 deleting properties
+    - 6.5 testing props 1
+    - 6.10 Litt syntax, gett/setters 7
 - Ch 7: (Arrays): skip
-  - 7.1.2 spread op: 1
-  - 7.3 Sparse arrays 1
-  - 7.7 multi-dim: 1
-  - 7.8 Array metoder; læs 7.8.1, skim resten og brug som opslag (8)
-  - 7.9 Array-like 2
+    - 7.1.2 spread op: 1
+    - 7.3 Sparse arrays 1
+    - 7.7 multi-dim: 1
+    - 7.8 Array metoder; læs 7.8.1, skim resten og brug som opslag (8)
+    - 7.9 Array-like 2
 - Ch 8: (Functions Important!): Skip
-  - 8.3 (pp 5) , but read 8.3.1-8.3.2
-  - 8.5 namespaces 1
-  - 8.6 closures 6
-  - 8.7 func props 4
-  - 8.8 Higherorder functions, but read 8.8.1: 5
+    - 8.3 (pp 5) , but read 8.3.1-8.3.2
+    - 8.5 namespaces 1
+    - 8.6 closures 6
+    - 8.7 func props 4
+    - 8.8 Higherorder functions, but read 8.8.1: 5

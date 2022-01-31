@@ -30,9 +30,9 @@ In this exercise we will gradually use more and more aspects of JS functions on 
   ```
   It should result in the following output
   ```console
-    Messages History in board IWP Chat:
-    Hej, dette er en test
-    Hej IWP
+  Messages History in board IWP Chat:
+  Hej, dette er en test
+  Hej IWP
   ```
 
   2. Add a function `register(f)` to the object that clients use to be notified when new messages arrives (a so-called **call-back function**): The register function takes a *function f as argument*, and stores the passed function in a different array `callBacks`. `f` itself takes two parameters: the name of the message board, and the message. Then prints them to the console, possibly in an client specific manner (eg language). 
@@ -48,8 +48,8 @@ In this exercise we will gradually use more and more aspects of JS functions on 
   ```
   It should result in the following output
   ```console
-    Brian! A message from IWP Chat: URGENT: Opgaveregning nu!
-    Board IWP Chat says to Michele: URGENT: Opgaveregning nu!
+  Brian! A message from IWP Chat: URGENT: Opgaveregning nu!
+  Board IWP Chat says to Michele: URGENT: Opgaveregning nu!
   ```
 
   3. Make a constructor function MessageBoard(name) that makes message boards.
