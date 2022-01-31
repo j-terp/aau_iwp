@@ -103,9 +103,9 @@ Authored by Brian Nielsen [bnielsen@cs.aau.dk](bnielsen@cs.aau.dk). Copyright ©
 function printScoresHTML(scoreTable){
 //... Change the line to include alt and title attributes
 
-        //res+=`<img src="resources/${imgName}-dice.png" width="20" height="20" >`;
-         const imgName=`${scoreTable[round].diceRoll[d]}`;
-         res+=`<img src="resources/${imgName}-dice.png" width="20" height="20" alt="dice ${imgName}" title="dice ${imgName}">`;
+//res+=`<img src="resources/${imgName}-dice.png" width="20" height="20" >`;
+  const imgName=`${scoreTable[round].diceRoll[d]}`;
+  res+=`<img src="resources/${imgName}-dice.png" width="20" height="20" alt="dice ${imgName}" title="dice ${imgName}">`;
 //...
 } 
 
@@ -113,22 +113,22 @@ function printScoresHTML(scoreTable){
 
 //solution to exercise 
 function printAnchor(url, text){
-    return `<a href="${url}"> ${text}</a>`;
-  }
-  function generateHelpLinks(){
-    const help=printAnchor("resources/help.html","help page");
-    const yatzyGame=printAnchor("https://da.wikipedia.org/wiki/Yatzy","Yatzy game");
-    let res=`To get help on playing the game, please consult the ${help}, and general description of the ${yatzyGame}`;
-  return res;
-  }
-  
-  //main function for generating the HTML code for the play
-  function printHTMLPage(scoreTable){
-    let page=printHTMLHdr("IWP Yatzy Game");
-    page+=generateHelpLinks();
-    page+=printHTMLBody(printScoresHTML(scoreTable));
-    return page;
-  }
+  return `<a href="${url}"> ${text}</a>`;
+}
+function generateHelpLinks(){
+  const help=printAnchor("resources/help.html","help page");
+  const yatzyGame=printAnchor("https://da.wikipedia.org/wiki/Yatzy","Yatzy game");
+  let res=`To get help on playing the game, please consult the ${help}, and general description of the ${yatzyGame}`;
+return res;
+}
+
+//main function for generating the HTML code for the play
+function printHTMLPage(scoreTable){
+  let page=printHTMLHdr("IWP Yatzy Game");
+  page+=generateHelpLinks();
+  page+=printHTMLBody(printScoresHTML(scoreTable));
+  return page;
+}
 ```
 
 ## Configuration form
@@ -139,24 +139,23 @@ function printAnchor(url, text){
 <!-- <form action="https://httpbin.org/get" method="get"-->
   <fieldset>
     <legend>Configure Game:</legend>
-     <label for="name_id"> Name</label>
-     <input type="text" id="name_id" name="name" placeholder="Navn" autofocus required minlength="1" maxlength="30"> 
-     <label for="diceCount_id"> Number of Dice:</label> 
-     <input type="number" id="diceCount_id" name="diceCount" placeholder="5" min="5" max="20" required>
+    <label for="name_id"> Name</label>
+    <input type="text" id="name_id" name="name" placeholder="Navn" autofocus required minlength="1" maxlength="30"> 
+    <label for="diceCount_id"> Number of Dice:</label> 
+    <input type="number" id="diceCount_id" name="diceCount" placeholder="5" min="5" max="20" required>
 
 
-     <label for="difficultyLevel_id"> Difficulty Level </label>
-     <input type="number" id="difficultyLevel_id" name ="difficultyLevel" value="1.0" step="0.1" min="1.0" max="2.0">
-    
-     <label for="topDownGame_id">Play Top Down</label>
-     <input type="radio" id="topDownGame_id" name="gameOrder" value="topDownOrder"
-              checked required>
+    <label for="difficultyLevel_id"> Difficulty Level </label>
+    <input type="number" id="difficultyLevel_id" name ="difficultyLevel" value="1.0" step="0.1" min="1.0" max="2.0">
+  
+    <label for="topDownGame_id">Play Top Down</label>
+    <input type="radio" id="topDownGame_id" name="gameOrder" value="topDownOrder" checked required>
     <label for="topDownGame_id">Play Bottom Up</label>
     <input type="radio" id="bottomUpGame_id" name="gameOrder" value="bottomUpOrder">
    
-     <input type="submit"  value="New Game">
+    <input type="submit"  value="New Game">
   </fieldset>
-  </form>
+</form>
 ```
 - HTTP:
   1. The requested url is: [https://httpbin.org/post](https://httpbin.org/post) . I.e  protocol-scheme `HTTPS`, domain `httpbin.org`, and resource path `post`. The http-method is `POST`. The fact that the resource name `post` co-insides with the `HTTP` method is an artefact of the function of the server to act as a test site. Don't confuse the two. The resource could have (better) been named `post-test`. On the other hand the `HTTP` methods is fixed by the `HTTP` protocol specification. 

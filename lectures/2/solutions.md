@@ -9,9 +9,9 @@
 console.log("JS er klar!");
 let logNo=1;
 function sepLog(text=""){
-    console.log("--------Exercise " + logNo + " " + text+ "-----------------");
+  console.log("--------Exercise " + logNo + " " + text+ "-----------------");
   logNo++;
-  }
+}
 let diceRoll=[1,6,6,2,3,4,6];
 
 sepLog("V1: no func parameters");
@@ -22,9 +22,9 @@ Appply the funtion to the above array arr as argument.
 */
 
 function get6s_v1(dice){
-    for(let i=0;i<dice.length;i++)
-     if(dice[i]===6) 
-        console.log(i+":"+dice[i]);
+  for(let i=0;i<dice.length;i++)
+    if(dice[i]===6) 
+      console.log(i+":"+dice[i]);
 }
 
 get6s_v1(diceRoll);
@@ -37,8 +37,8 @@ sepLog("V2: no func parameter, but helper to compare");
 */
 
 function is6(d){
-   if(d===6) return true;
-   else return false;
+  if(d===6) return true;
+  else return false;
 }
 
 //or simply
@@ -47,9 +47,9 @@ function is6_v2(d){
 }
 
 function get6s_v2(dice){
-    for(let i=0;i<dice.length;i++)
-     if(is6(dice[i])) 
-        console.log(i+" "+dice[i]);
+  for(let i=0;i<dice.length;i++)
+    if(is6(dice[i])) 
+      console.log(i+" "+dice[i]);
 }
 get6s_v2(diceRoll);
 
@@ -59,9 +59,9 @@ sepLog("V3 compare function parameter");
   Apply the function using the diceRoll and function "is6" as actual arguments
 */
 function get6s_v3(dice,compare){
-    for(let i=0;i<dice.length;i++)
-     if(compare(dice[i])) 
-        console.log(i+" "+dice[i]);
+  for(let i=0;i<dice.length;i++)
+    if(compare(dice[i])) 
+      console.log(i+" "+dice[i]);
 }
 get6s_v3(diceRoll,is6);
 
@@ -115,11 +115,11 @@ sepLog("V7: return an array; ussing for-of and array method forEach");
 */
 
 function findDices_v2(dice,compare){
-    let result=[];
-    for(let d of dice)
-     if(compare(d))
-        result.push(d);
-    return result;
+  let result=[];
+  for(let d of dice)
+    if(compare(d))
+      result.push(d);
+  return result;
 }
 console.log(findDices_v2(diceRoll,is6));
 
@@ -177,10 +177,10 @@ msgBoard.printMessages();
 //register eventHandlers (call-back functions)
 function briansHandler(boardName,message){
   console.log(`Brian! A message from ${boardName}: ${message}`);
-  }
- msgBoard.register(briansHandler);
- msgBoard.register((board,message)=>console.log(`Board ${board} says to Michele: ${message}`));
- msgBoard.sendAndNotifyMessage("URGENT: Opgaveregning nu!")
+}
+msgBoard.register(briansHandler);
+msgBoard.register((board,message)=>console.log(`Board ${board} says to Michele: ${message}`));
+msgBoard.sendAndNotifyMessage("URGENT: Opgaveregning nu!")
     
 /* EXERCISE, brug gerne et constructor funktion til at oprette msgBoards */    
     

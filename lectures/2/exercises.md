@@ -24,9 +24,9 @@ In this exercise we will gradually use more and more aspects of JS functions on 
   Add a function (method) to the object called `putMessage` that takes a string message as argument at stores it in the message array.
   Add a function (method) that prints the received messages to the console. I.e, the messageBoard could be used like:
   ```javascript
-    msgBoard.putMessage("Hej, dette er en test");
-    msgBoard.putMessage("Hej IWP");
-    msgBoard.printMessages();
+  msgBoard.putMessage("Hej, dette er en test");
+  msgBoard.putMessage("Hej IWP");
+  msgBoard.printMessages();
   ```
   It should result in the following output
   ```console
@@ -39,12 +39,12 @@ In this exercise we will gradually use more and more aspects of JS functions on 
   Based on the `putMessage` method, add a similar one `sendAndNotify` that in addition to storing the message (eg using `putMessage`) also calls all registered call-back functions whenever a message arrives (supplying the registered function with the new message, and boardname.
 
   ```javascript
-    function briansHandler(boardName,message){
-      console.log(`Brian! A message from ${boardName}: ${message}`);
-    }
-    msgBoard.register(briansHandler);
-    msgBoard.register((board,message)=>console.log(`Board ${board} says to Michele: ${message}`));
-    msgBoard.sendAndNotifyMessage("URGENT: Opgaveregning nu!")
+  function briansHandler(boardName,message){
+    console.log(`Brian! A message from ${boardName}: ${message}`);
+  }
+  msgBoard.register(briansHandler);
+  msgBoard.register((board,message)=>console.log(`Board ${board} says to Michele: ${message}`));
+  msgBoard.sendAndNotifyMessage("URGENT: Opgaveregning nu!")
   ```
   It should result in the following output
   ```console
