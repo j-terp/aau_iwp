@@ -14,6 +14,9 @@ Problems (\[KR\] p 201-207)
 
 1. P5
 2. P10
+
+    ![get method](../../assets/10_2_2.png)
+
 3. Exercise on web-caching
 
     Assume that the current time at the client above is

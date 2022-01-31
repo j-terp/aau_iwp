@@ -47,9 +47,9 @@ function monkeysJump(event) {
 
     3. Wait for 2 more seconds and `then()` print "I am done".
 
-The hard part of the exercise is implementing promises that wait for the 2 seconds. Inspire yourself to slides 36-37 to see how to encapsulate other async mechanisms into promises.
+    The hard part of the exercise is implementing promises that wait for the 2 seconds. Inspire yourself to slides 36-37 to see how to encapsulate other async mechanisms into promises.
 
-b) \[async / await\] Change the previous cose to use async functions and the await keyword. Is it possible to remove all `then()` usage?
+    b) \[async / await\] Change the previous cose to use async functions and the await keyword. Is it possible to remove all `then()` usage?
 
 
 4. \[fetch\] When a fetch fails. Write a function where you fetch a resource, and try to parse it as JSON data (or plain text). `console.log()` different error messages for the different issues you can have 
@@ -64,4 +64,4 @@ b) \[async / await\] Change the previous cose to use async functions and the awa
 
 5. a) \[parallel fetch\] Create a page with 100 images that are not loaded yet (for example, `<div>`'s), and one button. When the button is clicked, you load all 100 images at the same time (`Promise.all`) and `console.log` the time it takes.
 
-b) \[for await + fetch\] Redo 4.a, but this time load the images one at a time with a for await cycle, and `console.log` the total time it takes.
+    b) \[for await + fetch\] Redo 4.a, but this time load the images one at a time with a for await cycle, and `console.log` the total time it takes.
