@@ -37,16 +37,23 @@ Tidsforbrug Vi forventer at tidsforbruget vil være nogenlunde jævn gennem seme
 
 ## Table of Contents
 
-1. [Lecture 1](./lectures/1/README.md)
-2. [Lecture 2](./lectures/2/README.md)
-3. [Lecture 3](./lectures/3/README.md)
-4. [Lecture 4](./lectures/4/README.md)
-5. [Lecture 5](./lectures/5/README.md)
-6. [Lecture 6](./lectures/6/README.md)
-7. [Lecture 7](./lectures/7/README.md)
-8. [Lecture 8](./lectures/8/README.md)
-9. [Lecture 9](./lectures/9/README.md)
-10. [Lecture 10](./lectures/10/README.md)
-11. [Lecture 11](./lectures/11/README.md)
-12. [Lecture 12](./lectures/12/README.md)
-13. [Lecture 13](./lectures/13/README.md)
+<table>
+<tr><th>Lecture</th><th>Exercise</th></tr>
+
+<a href="./lectures/1/README.md">Lecture 1</a>
+
+
+<tr><td><a href="./lectures/1/README.md">Lecture 1</a></td><td><a href="./exercises/1/README.md">Exercises 1</a></td></tr>
+<tr><td><a href="./lectures/2/README.md">Lecture 2</a></td><td><a href="./exercises/2/README.md">Exercises 2</a></td></tr>
+<tr><td><a href="./lectures/3/README.md">Lecture 3</a></td><td><a href="./exercises/3/README.md">Exercises 3</a></td></tr>
+<tr><td><a href="./lectures/4/README.md">Lecture 4</a></td><td><a href="./exercises/4/README.md">Exercises 4</a></td></tr>
+<tr><td><a href="./lectures/5/README.md">Lecture 5</a></td><td><a href="./exercises/5/README.md">Exercises 5</a></td></tr>
+<tr><td><a href="./lectures/6/README.md">Lecture 6</a></td><td><a href="./exercises/6/README.md">Exercises 6</a></td></tr>
+<tr><td><a href="./lectures/7/README.md">Lecture 7</a></td><td><a href="./exercises/7/README.md">Exercises 7</a></td></tr>
+<tr><td><a href="./lectures/8/README.md">Lecture 8</a></td><td><a href="./exercises/8/README.md">Exercises 8</a></td></tr>
+<tr><td><a href="./lectures/9/README.md">Lecture 9</a></td><td><a href="./exercises/9/README.md">Exercises 9</a></td></tr>
+<tr><td><a href="./lectures/10/README.md">Lecture 10</a></td><td><a href="./exercises/10/README.md">Exercises 10</a></td></tr>
+<tr><td><a href="./lectures/11/README.md">Lecture 11</a></td><td><a href="./exercises/11/README.md">Exercises 11</a></td></tr>
+<tr><td><a href="./lectures/12/README.md">Lecture 12</a></td><td><a href="./exercises/12/README.md">Exercises 12</a></td></tr>
+<tr><td><a href="./lectures/13/README.md">Lecture 13</a></td><td><a href="./exercises/13/README.md">Exercises 13</a></td></tr>
+<table>
