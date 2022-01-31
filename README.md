@@ -10,7 +10,7 @@ Udover at give nyttig viden og kompetencer i sig selv, illustrerer kurset også 
 
 Eksamen er en 4-timers skriftlig prøve, og vil bestå af en teori-del (ca. 70%) og en hands-on del (ca 30%). Teori-delen er en blanding af multiple-choice og traditionelle opgaver, der skal checke forståelsen af pensum. Hands-on delen vil typisk være en mindre programmeringsøvelse.
 
- 
+
 
 Tidsforbrug Vi forventer at tidsforbruget vil være nogenlunde jævn gennem semesteret med normalt 1 lektion om ugen. Fordelingen af aktivitet ser sådan ud:
 
@@ -27,10 +27,6 @@ Tidsforbrug Vi forventer at tidsforbruget vil være nogenlunde jævn gennem seme
 
 <table>
 <tr><th>Lecture</th><th>Exercise</th></tr>
-
-<a href="./lectures/1/README.md">Lecture 1</a>
-
-
 <tr><td> <a href="./lectures/1/README.md">Lecture 1</a> </td><td> <a href="./exercises/1/README.md">Exercises 1</a> </td></tr>
 <tr><td> <a href="./lectures/2/README.md">Lecture 2</a> </td><td> <a href="./exercises/2/README.md">Exercises 2</a> </td></tr>
 <tr><td> <a href="./lectures/3/README.md">Lecture 3</a> </td><td> <a href="./exercises/3/README.md">Exercises 3</a> </td></tr>
