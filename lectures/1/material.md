@@ -40,7 +40,7 @@ There are many books that focus on the **Javascript language**. Not all are equa
   - Deep JavaScript: Theory and techniques (ES1–ES2019), Advanced
   - Speaking JavaScript (ES1–ES5), Introductory, but not fully updated with newest language features.
 
-- [MDN] Also has [numerous guides for JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- \[MDN\] Also has [numerous guides for JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript.info](https://javascript.info/) is another usefull web-based guide for JavaScript and front-end development
 - [https://jstherightway.org/](https://jstherightway.org/) numerous other Javascript related guides. 
 - [Algorithms in JavaScript](https://link.springer.com/book/10.1007/978-1-4842-3988-9) **An AUB online Book using JavaScript to exemplify how to write algorithms.**

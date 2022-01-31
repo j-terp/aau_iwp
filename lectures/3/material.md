@@ -33,11 +33,11 @@
 
 3. HTTP
 
-  - [MDN] [https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL]
-  - [MDN] [https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview]
+  - \[MDN\] [https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL]
+  - \[MDN\] [https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview]
 
 
-4. [MDN] Guide ["Styling the Web"](https://developer.mozilla.org/en-US/docs/Learn/CSS), Chapters ["First Steps"](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) and ["CSS building blocks"](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks) up to the section on ["background and borders"](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders). The remaining part of building blocks and the remaining chapters ["styling fonts"](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text) and ["Layout"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) are supplementary. The goal is to introduce the basic principles of CSS; focus on that, and do no read about CSS in every aspect/detail.
+4. \[MDN\] Guide ["Styling the Web"](https://developer.mozilla.org/en-US/docs/Learn/CSS), Chapters ["First Steps"](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) and ["CSS building blocks"](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks) up to the section on ["background and borders"](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders). The remaining part of building blocks and the remaining chapters ["styling fonts"](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text) and ["Layout"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) are supplementary. The goal is to introduce the basic principles of CSS; focus on that, and do no read about CSS in every aspect/detail.
 
   - [CSS — Styling the Web](https://developer.mozilla.org/en-US/docs/Learn/CSS)
   - CSS first steps
@@ -65,7 +65,7 @@
 
 ## Supplementary:
 
-  - [MJC] Mark J. Collins. [Pro HTML5 with CSS, JavaScript, and Multimedia: Complete Website Development and Best Practices](https://link-springer-com.zorac.aub.aau.dk/book/10.1007/978-1-4842-2463-2). Online book accessible via Aalborg University Library.
-  - [MDN] CSS reference guide [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - [MDN] [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), [HTML Guides](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - [WHATWG] [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
+  - \[MJC\] Mark J. Collins. [Pro HTML5 with CSS, JavaScript, and Multimedia: Complete Website Development and Best Practices](https://link-springer-com.zorac.aub.aau.dk/book/10.1007/978-1-4842-2463-2). Online book accessible via Aalborg University Library.
+  - \[MDN\] CSS reference guide [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - \[MDN\] [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), [HTML Guides](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - \[WHATWG\] [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
