@@ -27,15 +27,15 @@ Tidsforbrug Vi forventer at tidsforbruget vil være nogenlunde jævn gennem seme
 
 <table>
 <tr><th>Lecture</th><th>Exercise</th></tr>
-<tr><td> <a href="./lectures/1/README.md">Lecture 1</a> </td><td> <a href="./exercises/1/README.md">Exercises 1</a> </td></tr>
-<tr><td> <a href="./lectures/2/README.md">Lecture 2</a> </td><td> <a href="./exercises/2/README.md">Exercises 2</a> </td></tr>
-<tr><td> <a href="./lectures/3/README.md">Lecture 3</a> </td><td> <a href="./exercises/3/README.md">Exercises 3</a> </td></tr>
-<tr><td> <a href="./lectures/4/README.md">Lecture 4</a> </td><td> <a href="./exercises/4/README.md">Exercises 4</a> </td></tr>
-<tr><td> <a href="./lectures/5/README.md">Lecture 5</a> </td><td> <a href="./exercises/5/README.md">Exercises 5</a> </td></tr>
-<tr><td> <a href="./lectures/6/README.md">Lecture 6</a> </td><td> <a href="./exercises/6/README.md">Exercises 6</a> </td></tr>
-<tr><td> <a href="./lectures/7/README.md">Lecture 7</a> </td><td> <a href="./exercises/7/README.md">Exercises 7</a> </td></tr>
-<tr><td> <a href="./lectures/8/README.md">Lecture 8</a> </td><td> <a href="./exercises/8/README.md">Exercises 8</a> </td></tr>
-<tr><td> <a href="./lectures/9/README.md">Lecture 9</a> </td><td> <a href="./exercises/9/README.md">Exercises 9</a> </td></tr>
+<tr><td><a href="./lectures/01/README.md">Lecture 1</a> </td><td><a href="./exercises/01/README.md">Exercises 1</a> </td></tr>
+<tr><td><a href="./lectures/02/README.md">Lecture 2</a> </td><td><a href="./exercises/02/README.md">Exercises 2</a> </td></tr>
+<tr><td><a href="./lectures/03/README.md">Lecture 3</a> </td><td><a href="./exercises/03/README.md">Exercises 3</a> </td></tr>
+<tr><td><a href="./lectures/04/README.md">Lecture 4</a> </td><td><a href="./exercises/04/README.md">Exercises 4</a> </td></tr>
+<tr><td><a href="./lectures/05/README.md">Lecture 5</a> </td><td><a href="./exercises/05/README.md">Exercises 5</a> </td></tr>
+<tr><td><a href="./lectures/06/README.md">Lecture 6</a> </td><td><a href="./exercises/06/README.md">Exercises 6</a> </td></tr>
+<tr><td><a href="./lectures/07/README.md">Lecture 7</a> </td><td><a href="./exercises/07/README.md">Exercises 7</a> </td></tr>
+<tr><td><a href="./lectures/08/README.md">Lecture 8</a> </td><td><a href="./exercises/08/README.md">Exercises 8</a> </td></tr>
+<tr><td><a href="./lectures/09/README.md">Lecture 9</a> </td><td><a href="./exercises/09/README.md">Exercises 9</a> </td></tr>
 <tr><td><a href="./lectures/10/README.md">Lecture 10</a></td><td><a href="./exercises/10/README.md">Exercises 10</a></td></tr>
 <tr><td><a href="./lectures/11/README.md">Lecture 11</a></td><td><a href="./exercises/11/README.md">Exercises 11</a></td></tr>
 <tr><td><a href="./lectures/12/README.md">Lecture 12</a></td><td><a href="./exercises/12/README.md">Exercises 12</a></td></tr>
