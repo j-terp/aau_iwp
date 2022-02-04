@@ -3,15 +3,16 @@
 ## Part 1
 
 - Exercise 6
-    - [demo.html](./1/demo.html)
+    - [demo.html](./Simple HTML Script Node/demo.html)
 
 ## Part 2
 
 - Exercise 1
-    - [triangle.js](./2/triangle.js)
+    - [triangle.js](./Simple HTML Script Node/triangle.js)
 - Exercise 2
-    - [chessboard.js](./2/chessboard.js)
+    - [chessboard.js](./Simple HTML Script Node/chessboard.js)
 - Exercise 3
-    - [myfile.html](./2/myfile.html)
+    - [renderPage.js](./Simple HTML Script Node/renderPage.js)
+    - [myfile.html](./Simple HTML Script Node/myfile.html)
 - Exercise 4
-    - [avg_str_len.js](./2/avg_str_len.js)
+    - [string.js](./Simple HTML Script Node/string.js)
