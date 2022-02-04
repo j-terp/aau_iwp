@@ -15,7 +15,7 @@ These chapters introduce the basic programming concepts in JavaScript (JS): Type
 - Ch 3: skip
     - 3.2.5, BigInt:
     - 3.6, Symbols: 2
-    - 3.2.10 VAR: 1
+    - 3.10.2 VAR: 1
     - 3.10.3 Destructuring assignment: 4
 - Ch 4: Expressions, SKIP
     - 4.4.1 Conditional property access 2

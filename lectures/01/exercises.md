@@ -10,7 +10,7 @@
         - Getting started: [https://code.visualstudio.com/docs/introvideos/basics](https://code.visualstudio.com/docs/introvideos/basics) 
         - Later, [watch the intro video](https://youtu.be/VqCgcpAypFQ)
 
-2. [node.js](https://nodejs.org/en/download/) (Choose a  LTS (long term stable) version, currently 16.13.2)
+2. [node.js](https://nodejs.org/en/download/) (Choose a LTS (long term stable) version, currently 16.13.2)
 
 3. Using Chrome, locate the developer tools `(CTRL-SHIFT-I)`. Then locate the console-window (console in the menu-bar).
     `Type console.log("Hej med dig!");`
@@ -44,7 +44,7 @@
     
     ![IWP demo](../../assets/1_2_3.png)
 
-4. Write a JS function that takes an array of strings as argument and computes (as return value) the average length of the strings. Ie. the following input it should compute (5 + 3 + 3) / 3 = 3,7.
+4. Write a JS function that takes an array of strings as argument and computes (as return value) the average length of the strings. Ie. the following input it should compute (5 + 3 + 4) / 3 = 4.
     `let strings=["Hejsa", "med", "dig!"];`
 
 ## Part 3: Extra
