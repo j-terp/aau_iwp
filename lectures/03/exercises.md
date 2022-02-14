@@ -8,7 +8,7 @@
     1. [https://www.w3schools.com/html/exercise.asp?filename=exercise_html_headings3](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_headings3)
     2. [https://www.w3schools.com/html/exercise.asp?filename=exercise_html_links5](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_links5)
 2. Yatzy HTML
-    1. Do semantic HTML markup of a simple yatzy help page to be stored in the file "help.html".  After mark up, it ([raw text supplied for your convenience]) should display the page as shown below. It should include include a link to [https://da.wikipedia.org/wiki/Yatzy](https://da.wikipedia.org/wiki/Yatzy), and to your figures inside the page. You may use [this dice image](https://www.moodle.aau.dk/pluginfile.php/2447174/mod_page/content/15/3d-dice.png). Does your HTML pass the validator at [https://validator.w3.org/#validate_by_input](https://validator.w3.org/#validate_by_input)? (you can paste your html directly)
+    1. Do semantic HTML markup of a simple yatzy help page to be stored in the file "help.html".  After mark up, it ([raw text supplied for your convenience](https://www.moodle.aau.dk/pluginfile.php/2447174/mod_page/content/15/rawHelpText.txt?time=1642772875186)) should display the page as shown below. It should include include a link to [https://da.wikipedia.org/wiki/Yatzy](https://da.wikipedia.org/wiki/Yatzy), and to your figures inside the page. You may use [this dice image](https://www.moodle.aau.dk/pluginfile.php/2447174/mod_page/content/15/3d-dice.png). Does your HTML pass the validator at [https://validator.w3.org/#validate_by_input](https://validator.w3.org/#validate_by_input)? (you can paste your html directly)
 
     ![yatzy desc](../../assets/3_1_2_1.png)
 
