@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IWP Multi Yatzy</title>
+</head>
+<body>
+    <main>
+        <h1>IWP Multi Yatzy</h1>
+        <form action="https://httpbin.org/post" method="post">
+            <fieldset>
+                <legend>Configure Game:</legend>
+                <p>
+                    <label for="userName">Name</label>
+                    <input type="text" name="user" id="userName">
+                </p>
+                <p>
+                    <label for="numDice">Number of Dice</label>
+                    <input type="number" name="dice" id="numDice">
+                </p>
+                <p>
+                    <label for="diffLev">Difficulty Level</label>
+                    <input type="number" name="level" id="diffLev">
+                </p>
+                <div>
+                    <p>
+                        <label for="playDown">Play Top Down</label>
+                        <input type="radio" name="play" id="playDown">
+                    </p>
+                    <p>
+                        <label for="playUp">Play Bottom Up</label>
+                        <input type="radio" name="play" id="playUp">
+                    </p>
+                </div>
+                <button type="submit">Play Yatzy</button>
+            </fieldset>
+        </form>
+    </main>
+</body>
+</html>
