@@ -1,4 +1,4 @@
-# IWP
+# Internetwork and Web Programming
 
 Computer netværk, og især Internettet spiller i dag en enorm rolle i den måde som vi anvender computere på, og i den måde vi programmerer større applikationer. Tænk på Intranet til deling af fælles ressourcer som printere, netværksdrev, og interne dokumenter. Tænk på Internet til sociale medier, WWW, fil-deling, chat, video-konference, streaming og gaming, Internet-of-things og cyber-physical systems, der kobler den fysiske verden til nettet. Personlige netværk til dit telefon, smart-watch, høretelefoner hører også med. Endvidere kører moderne programmer (applikationer) ofte "over nettet". De er delt op i en front-end på brugerens enhed og en back-end, der kører på en server eller i en sky (som software-as-a service).  Alternativt, anvender programmer ofte eksisterende services som komponenter, og anvender disse via Web-API som del af programmet.  Derfor bør en professionel datalog eller software ingeniør have et fundamentalt kendskab til hvordan netværk er opbygget, virkemåde, og hvordan de kan programmeres. 
 
